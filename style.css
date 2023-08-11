@@ -16,6 +16,12 @@ body{
     box-sizing: border-box;
 }
 
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    margin: 30px;
+}
+
 form{
     display: flex;
     flex-direction: column;
